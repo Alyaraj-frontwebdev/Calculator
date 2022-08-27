@@ -1,0 +1,99 @@
+.container{
+    background-color: rgb(44, 35, 35);
+    width:348px;
+    margin: auto;
+}
+.inp1{
+    width:340px;
+    height:40px;
+    color:white;
+    background-color: black;
+    border-color: black;
+    text-align: right;
+    font-size:18px;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.inp2{
+    width:340px;
+    height:40px;
+    color:white;
+    background-color: black;
+    border-color: black;
+    text-align: right;
+    font-size:25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn{
+    width: 45px;
+    height: 35px;
+    border-radius: 12px;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+    background-color: rgb(49, 48, 48);
+}
+.operator{
+    width: 45px;
+    height: 35px;
+    font-size: large;
+    border-radius: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+    background-color: rgb(6, 13, 67);
+}
+.function{
+    width: 45px;
+    height: 35px;
+    font-size: large;
+    border-radius: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+    background-color: rgb(87, 23, 23);
+}
+.const{
+    width: 45px;
+    height: 35px;
+    font-size: large;
+    border-radius: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+    background-color: rgb(48, 58, 137);
+}
+.equal{
+    width: 45px;
+    height: 35px;
+    font-size: large;
+    border-radius: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+    background-color: rgb(8, 132, 248);
+}
+.fromRadToDeg{
+    width: 45px;
+    height: 35px;
+    font-size: 13px;
+    border-radius: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+    background-color: rgb(62, 13, 3);
+}
+.allClear{
+    width: 45px;
+    height: 35px;
+    font-size: large;
+    border-radius: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+    background-color: rgb(91, 110, 37);
+}
+.change{
+    width: 45px;
+    height: 35px;
+    font-size: large;
+    border-radius: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+    background-color: rgb(161, 237, 38);
+}
